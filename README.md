@@ -27,7 +27,10 @@ CFD suitable geometry:
 
 # Uptake by other users.
 
-This collection of files was developed specifically for a user requirement.
+This collection of files was developed specifically for a user requirement. Future functionalities are:  
+* Automatic segmentation.
+* Hematocrit (black spheres inside lumen) tracking for velocity.
+* Generation of sythetic networks that have the same network properties (bifurcation angles, segment lengths, diameters).
 
 # Licence.
 
